@@ -1,2 +1,2 @@
 # reguirements.txt
-snowflake-conncetor-python
+snowflake-connector-python
